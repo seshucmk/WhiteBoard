@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class DuplicateLines {
-	// Test comment to see GIT changes
+	// Try this...
 	public static void main(String a[]) {
 		FileInputStream fstream = null;
 		DataInputStream in = null;
